@@ -13,10 +13,10 @@ basic_info:
     last_name: Andino
     
     # Define yourself in 4-5 words
-    motto: Ambitious, Personable, Dedicated, Professional, Intelligent
+    motto: “BE STUBBORN ABOUT YOUR GOALS AND FLEXIBLE ABOUT YOUR METHODS.”
     
     # focus
-    focus: Becoming gainfully employed as a software developer
+    focus: Becoming gainfully employed as a full web developer
     
     # You have 1 paragraph to make a great impression, summarize your career.
     summary: |
@@ -24,7 +24,7 @@ basic_info:
       well rounded individual. My love of learning has pulled me into different directions now leading up to learning how to code, build websites and possibly change the world.
       I have been able to adapt in very different positions, from managing a fast food resturant with over 75 employees, to handling over 100 
       catastrophe cases in different states and learning how to exercise empathy. Now I am learning how to write computer code and be able to build a dream to reality. 
-      In the next 6 months I believe to acquire a junior developer position in a kick ass company.
+      In the next 6 months I believe to acquire a junior developer position in a kick ass company completly ready to engage. 
 
     
     # Your profile picture URL
@@ -51,7 +51,7 @@ basic_info:
         level: Native
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
       - idiom: French
         level: Basic
@@ -62,7 +62,7 @@ basic_info:
 
       - item: Adventures with my family
 
-      - item: Book Clubs
+      - item: Softball
 
 # Your previous education
 education: 
@@ -71,8 +71,9 @@ education:
       time: 2018 - 2019
       details: |
         Learned the basics of coding with Html5 and Css. 
-        Learned how to use coding social websites such as Github, Stack Overflow & Stack. 
-        Built different projections as the lessons progressed with different programs. 
+        Learned how to use social coding websites such as Github, Stack Overflow & Stack. 
+        Built different projects as the lessons progressed with different programs such as Javascript & React. 
+        
 
     - degree: Bachelor's in Business Administration
       university: College of Business Administration
@@ -116,7 +117,7 @@ experiences:
 # Your project portfolio
 projects:
     intro: >
-        Currently working in building an excuse generator with Bootstrap. 
+        Currently working on building a to do list project using React and Javascript. 
 
     assignments:
       - title: My Postcard
@@ -131,23 +132,29 @@ projects:
         link: "#https://github.com/nachovz/git-collab-2018-2"
         tagline: "My first collboration with other students in my cohort. Built the Navbar using Bootstrap 4."
 
+      - title: 1st React Project
+        link: "#https://github.com/andinoga/landing-page-with-react"
+        tagline: "Created a landing page with react."
 skills:
     toolset:
       - name: Python & Django
         level: 0%
 
       - name: Javascript & jQuery
-        level: 25%
+        level: 50%
 
       - name: Angular
         level: 0%
 
       - name: HTML5 & CSS
-        level: 85%
+        level: 90%
 
       - name: Ruby on Rails
         level: 25%
 
       - name: Quickbooks
         level: 60%
+     
+    softskills: open-minded, creative, flexbility, adaptability to change, learning on the job, 
+                making connections with people. 
         
